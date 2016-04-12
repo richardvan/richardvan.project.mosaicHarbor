@@ -1,8 +1,3 @@
-////////////
-//  Stackoverflow stuff
-////////////
-
-
 
 //  initialize array of n-length
 //createArray();     // [] or new Array()
